@@ -1,9 +1,10 @@
 +++
 title = 'Golden Slumbers'
 date = 2025-03-26T04:25:46-03:00
+tags = ['vida']
 +++
 
-> Sentimentos complexos saem de mim em toneladas de referencias, muitas vezes, incapazes de acompanhar.
+> Sentimentos complexos saem de mim em toneladas de referências, muitas vezes, incapazes de acompanhar.
 
 **É e cá estamos nós...**
 
@@ -29,16 +30,16 @@ Por escolha própria, ou como resposta traumática, eu vivo a 250km do lugar ond
 
 ---
 
-Minha mãe era uma pessoa bastante expansiva, faladora. Era muito fácil encontrar ela em qualquer *buteco* tomando uma ou então em um roda de samba duvidosa. Esbanjava sorrisos, 200kg de sarcasmo a cada meia frase. No velório dela cantaram até um samba. Entre chorros e risos, o coro. Andei vendo algumas fotos antigas, de festas, esses dias. Impossível achar uma foto sem um grande riso.
+Minha mãe era uma pessoa bastante expansiva, faladora. Era muito fácil encontrar ela em qualquer *buteco* tomando uma ou então em um roda de samba duvidosa. Esbanjava sorrisos, 200kg de sarcasmo a cada meia frase. No velório dela cantaram até um samba. Entre choros e risos, o coro. Andei vendo algumas fotos antigas, de festas, esses dias. Impossível achar uma foto sem um grande riso.
 
 Eu, por estar de fora da festa, sempre soube que existia um abismo ali. Sempre senti que compartilhávamos um demônio obscuro, guardado a sete chaves. Algo que estava nas entrelinhas das frases, uma solidão... Aquele tipo de coisa que machuca na calada da noite. O sentimento de não pertencimento da realidade distorcida da vida.
 
-Quando eu nasci minha mãe tinha apenas 17 anos, eu custei a entender isso. Não que isso não fosse um fato consumado e extremamente concreto. Eu custei a entender o que isso significava na existência dela. A fase do descobrimento daquilo que se é. A personalidade de uma mãe jovem é ser **mãe**. Hoje com quase o dobro da ideia que ela tinha quando eu nasci, não sei se ainda entendo o significado e o peso que isso tem.
+Quando eu nasci, minha mãe tinha apenas 17 anos. Eu custei a entender isso. Não que isso não fosse um fato consumado e extremamente concreto. Eu custei a entender o que isso significava na existência dela. A fase do descobrimento daquilo que se é. A personalidade de uma mãe jovem é ser **mãe**. Hoje, com quase o dobro da ideia que ela tinha quando eu nasci, não sei se ainda entendo o significado e o peso que isso tem.
 
-Depois que me tornei adulto, e na base de muita terapia, compreendo as ausências "fica com o tio ai que eu já venho" e voltando com o sol já raiando. Por mais que esse comportamento ausente tenha [custado a minha alma](https://medium.com/@dunossauro/chegou-a-hora-de-conversar-sobre-estupro-3b453ffc98fb), no fundo eu gosto de dizer que compreendo.
+Depois que me tornei adulto, e na base de muita terapia, compreendo as ausências, "fica com o tio ai que eu já venho" e voltando com o sol já raiando. Por mais que esse comportamento ausente tenha [custado a minha alma](https://medium.com/@dunossauro/chegou-a-hora-de-conversar-sobre-estupro-3b453ffc98fb), no fundo, eu gosto de dizer que compreendo.
 
 ---
 
-Nossas últimas conversas, como a maioria das outras, foram frívolas na superfície, mas com as entrelinhas pontilhadas, que ao percorrer sempre levaram ao mesmo lugar primeiras verdades nobres: dor e sofrimento.
+Nossas últimas conversas, como a maioria das outras, foram frívolas na superfície, mas com as entrelinhas pontilhadas, que ao percorrer sempre levaram ao mesmo lugar as primeiras verdades nobres: dor e sofrimento.
 
-Nos amávamos a nossa maneira. Distantes, mas intimamente enraizados do quanto um carregava do outro.
+Nos amávamos à nossa maneira. Distantes, mas intimamente enraizados do quanto um carregava do outro.
