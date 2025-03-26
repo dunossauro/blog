@@ -1,5 +1,10 @@
-baseURL = 'https://blog.dunossauro.com/'
 languageCode = 'pt-BR'
 title = 'Blog do Dunossauro'
 theme = "anubis2"
 defaultContentLanguage = 'pt'
+rssLimit = 30
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss+xml"
+baseName = "feed"
