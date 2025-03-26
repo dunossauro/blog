@@ -1,5 +1,5 @@
 baseURL = 'https://blog.dunossauro.com/'
 languageCode = 'pt-BR'
 title = 'Blog do Dunossauro'
-theme = 'ananke'
+theme = "anubis2"
 defaultContentLanguage = 'pt'
