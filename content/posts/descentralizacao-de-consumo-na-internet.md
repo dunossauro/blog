@@ -1,7 +1,7 @@
 +++
 title = "Descentralização de consumo na internet"
 date = 2025-04-08T18:56:49-03:00
-tag = ["tech", "vida", "posse"]
+tags = ["tech", "vida", "posse"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
