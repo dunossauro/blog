@@ -1,7 +1,6 @@
 +++
 title = "Descentralização de consumo na internet"
 date = 2025-04-08T18:56:49-03:00
-draft = true
 tag = ["tech", "vida"]
 [comments]
 host = "bolha.us"
