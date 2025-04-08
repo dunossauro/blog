@@ -4,6 +4,10 @@ theme = "anubis2"
 defaultContentLanguage = 'pt'
 rssLimit = 30
 
+[params.author]
+name = "dunossauro"
+email = "dunossauro@protonmail.com"
+
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss+xml"
