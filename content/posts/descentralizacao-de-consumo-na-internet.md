@@ -1,10 +1,11 @@
 +++
 title = "Descentralização de consumo na internet"
 date = 2025-04-08T18:56:49-03:00
-tag = ["tech", "vida"]
+tag = ["tech", "vida", "posse"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
+id = 114304592904815316
 +++
 
 > Eu tentei ser o menos sarcástico que consegui nessa postagem. Mas, o estado atual da internet me emputesse e eu perco o controle...
