@@ -138,3 +138,16 @@ small, section#comments .comment time, section#comments .comment footer, aside p
   color: var(--font-color);
   border: 0px;
 }
+
+p {
+    padding: 10px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}

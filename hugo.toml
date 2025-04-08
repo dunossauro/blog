@@ -3,10 +3,18 @@ title = 'Blog do Dunossauro'
 theme = "anubis2"
 defaultContentLanguage = 'pt'
 rssLimit = 30
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+colorTheme = "auto"
+colorThemeSwitcher = true
 
 [params.author]
 name = "dunossauro"
 email = "dunossauro@protonmail.com"
+
+[markup.highlight]
+style = 'catppuccin-mocha'
 
 [outputFormats]
 [outputFormats.RSS]
