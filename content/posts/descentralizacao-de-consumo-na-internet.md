@@ -94,15 +94,17 @@ O que deve retornar um XML como esse:
 Sim, esse é o tão amado feed! Tem o título, a data, a categoria, o link, quem escreveu, etc...
 
 
-> "Ah… Eduardo… Que papo troncho, quer só pagar de diferentão…" OK, OK…
+> "Ah… Eduardo… Que papo troncho, quer só pagar de diferentão…"
 
-Jornal? Você lê notícias, não? Todos os jornais que eu conheço tem feeds... Vamos pegar a folha de são Paulo como exemplo
+OK, OK… Jornal? Você lê notícias, não? Todos os jornais que eu conheço tem feeds... Vamos pegar a folha de são Paulo como exemplo
 
 https://www1.folha.uol.com.br/feed/
 
 Você pode seguir qualquer editorial que te agrade!
 
-> "Ah… Seu conformista, lendo mídia burguesa…" OK, o feed da Boi tempo te agrada então?
+> "Ah… Seu conformista, lendo mídia burguesa…"
+
+OK, o feed da Boi tempo te agrada então?
 
 https://blogdaboitempo.com.br/feed
 
@@ -130,7 +132,7 @@ https://feeds.simplecast.com/hwQVm5gy
 
 Esse é o feed do naruhodo, meu podcast preferido… O seu podcast com certeza tem um feed também…
 
-Se você estiver procurando por feeds de coisas diferentes, o [OpenRSS](https://openrss.org/feeds) tem algumas opções de cosias diferentes, até mesmo de lives na twitch. Mas, chega de exemplos, CHEGA… Você já entendeu…
+Se você estiver procurando por feeds de coisas diferentes, o [OpenRSS](https://openrss.org/feeds) tem algumas opções bem diferentes, até mesmo de lives na twitch. Mas, chega de exemplos, CHEGA… Você já entendeu…
 
 ## Centralizando a descentralização
 
@@ -162,7 +164,7 @@ Cada um tem seus defeitos… Não é mesmo… Tenho certeza de que alguém vai t
 
 > "Eu vou ter que entrar em link por link no celular e depois de perder 1 semana da minha vida, eu vou ter que fazer isso no PC também? Tá me tirando?"
 
-É aí que entra o [OPML](https://pt.m.wikipedia.org/wiki/OPML) um arquivo que condensa todos os seus feeds em um único `XML`, você pode ajustar as categorias dos feeds, compartilhar com amizades, exportar para backup, importa em outro gerenciador pra testar em outro programa. Assim, você pode testar o que te deixar mais feliz…
+É aí que entra o [OPML](https://pt.m.wikipedia.org/wiki/OPML). Um arquivo que condensa todos os seus feeds em um único `XML`, você pode ajustar as categorias dos feeds, compartilhar com amizades, exportar para backup, importa em outro gerenciador pra testar em outro programa. Assim, você pode testar o que te deixar mais feliz…
 
 As entradas são bastante simples e o arquivo é lido fácilmente:
 
