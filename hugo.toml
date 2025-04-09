@@ -1,8 +1,9 @@
 languageCode = 'pt-BR'
 title = 'Blog do Dunossauro'
-theme = "anubis2"
+theme = 'anubis2'
 defaultContentLanguage = 'pt'
 rssLimit = 30
+baseURL = 'https://blog.dunossauro.com'
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]

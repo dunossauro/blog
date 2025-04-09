@@ -114,9 +114,6 @@ small, section#comments .comment time, section#comments .comment footer, aside p
  section#comments .comment .ellipsis::after {
 	 content: "…";
  }
- p {
-     align: right;
- }
 
  button {
   border-style:solid;
