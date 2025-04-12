@@ -1,7 +1,6 @@
 +++
 title = "Automatizando postagens no pixelfed"
 date = 2025-04-12T16:36:28-03:00
-draft =  true
 tags = ["tech", "posse", "fediverso", "python"]
 [comments]
 host = "bolha.us"
