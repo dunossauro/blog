@@ -5,6 +5,7 @@ tags = ["tech", "posse", "fediverso", "python"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
+id = 114326692955710228
 +++
 
 Tenho trabalhado nos últimos tempos em uma forma de postar meus conteúdos na minha página e sindicar o conteúdo nas redes sociais ([POSSE](https://indieweb.org/POSSE)). Nessa experiência, tenho desenvolvido em vagarosidade glacial o [sociopyta](https://codeberg.org/dunossauro/sociopyta/). Na grande maioria dos casos, temos APIs de documentação ou bibliotecas prontas para fazer isso.
