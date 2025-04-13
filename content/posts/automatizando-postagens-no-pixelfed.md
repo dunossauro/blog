@@ -8,9 +8,9 @@ username = "dunossauro"
 id = 114326692955710228
 +++
 
-Tenho trabalhado nos últimos tempos em uma forma de postar meus conteúdos na minha página e sindicar o conteúdo nas redes sociais ([POSSE](https://indieweb.org/POSSE)). Nessa experiência, tenho desenvolvido em vagarosidade glacial o [sociopyta](https://codeberg.org/dunossauro/sociopyta/). Na grande maioria dos casos, temos APIs de documentação ou bibliotecas prontas para fazer isso.
+Tenho trabalhado nos últimos tempos em uma forma de postar meus conteúdos na minha página e sindicar o conteúdo nas redes sociais ([POSSE](https://indieweb.org/POSSE)). Nessa experiência, tenho desenvolvido em vagarosidade glacial o [sociopyta](https://codeberg.org/dunossauro/sociopyta/).
 
-No caso do [pixelfed](https://pixelfed.org/), não temos nem documentação, nem bibliotecas :)
+Na grande maioria dos casos, fazer postagens em redes sociais ([silos](https://indieweb.org/silo)) não oferece um grande desafio, temos APIs de documentação ou bibliotecas prontas para fazer isso. No caso do [pixelfed](https://pixelfed.org/), não temos nem documentação, nem bibliotecas :)
 
 > Esse post é sobre um "trabalho investigativo" em código-fonte alheio. Você pode pular para [# solução](#solução) e ver como fazer a automação dos seus posts ;)
 
