@@ -56,7 +56,7 @@ Quando digo censura, você já pode estar imaginando [cyberpunks](https://www.bo
 
 Eu tô falando de "termos de serviço", principalmente os ambulantes. Aquele que, quando você começa a construir seu castelo nele (no silo do outro), as regras mudam, aí você passa a ser um "fora da lei" do condado eletrônico. E o silo vai te penalizar por isso. É claro... Você não leu o TOS, leu?
 
-Pra te ajudar nisso, porque tudo é TR;DL (to long, don't read) e cheio de [juridiquês](https://pt.wikipedia.org/wiki/Juridiqu%C3%AAs), temos o [TOSDR](https://tosdr.org/) que mostra os pontos mais críticos dos termos.
+Pra te ajudar nisso, porque tudo é TL;DR (to long, don't read) e cheio de [juridiquês](https://pt.wikipedia.org/wiki/Juridiqu%C3%AAs), temos o [TOSDR](https://tosdr.org/) que mostra os pontos mais críticos dos termos.
 
 Mas, basicamente, o que é aceitável hoje... Amanhã pode não ser mais. Tudo aquilo que, foi feito ali pode não existir mais. Existem casos de monte sobre essas coisas e você pode procurar.
 
