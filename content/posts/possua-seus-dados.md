@@ -10,8 +10,6 @@ id = 114362452089660112
 
 [Esse post é o lado inverso [deste](/posts/descentralizacao-de-consumo-na-internet)]
 
-> Esse post tem diversos diagramas em mermaid que não costumam ser bem lidos pelos leitores de feed, recomento que dê uma olhada na postagem na página.
-
 Um dos grandes problemas de viver nos [silos](https://indieweb.org/silo), pelo menos para mim, é ter de pensar no que vai em cada silo. Como toda pessoa, também sou multifacetado. Penso em coisas diferentes, com formas diferentes, e gosto de falar sobre elas. Mas parece que nem todo silo é adaptado e tem receptividade para comportar tudo que eu penso. Quer exemplos de pensamentos?
 
 - "Já ouviu o último disco do [umnavio](https://umnavio.bandcamp.com/music)?"
