@@ -8,6 +8,8 @@ username = "dunossauro"
 id = 114304592904815316
 +++
 
+[Esse post é o lado inverso [deste](/posts/possua-seus-dados)]
+
 > Eu tentei ser o menos sarcástico que consegui nessa postagem. Mas, o estado atual da internet me emputesse e eu perco o controle...
 
 Me sinto cada vez mais fatigado da internet, sei que não sou só eu que me sinto assim, então acredito que precisamos conversar…
