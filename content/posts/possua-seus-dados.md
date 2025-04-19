@@ -5,6 +5,7 @@ tags = ['posse', 'tech']
 [comments]
 host = "bolha.us"
 username = "dunossauro"
+id = 114362452089660112
 +++
 
 > Esse post tem diversos diagramas em mermaid que não costumam ser bem lidos pelos leitores de feed, recomento que dê uma olhada na postagem na página.
