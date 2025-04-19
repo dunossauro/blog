@@ -1,6 +1,6 @@
 +++
 title = "Possua seus dados (e pensamentos, também...)"
-date = "2025-04-19T00:12:54-03:00"
+date = 2025-04-19T00:12:54-03:00
 tags = ['posse', 'tech']
 [comments]
 host = "bolha.us"
