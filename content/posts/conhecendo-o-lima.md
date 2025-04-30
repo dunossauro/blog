@@ -5,7 +5,7 @@ tags = ['tech', 'gnu/linux']
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114304592904815316
+id = 114427207741534722
 +++
 
 Grande parte do meu trabalho, fora dos streams e vídeos, é dar suporte pra a comunidade. Eu tô sempre por ai, nos grupos da comunidade de python/emacs/GNU/linux, tentando ajudar da melhor maneira possível.
