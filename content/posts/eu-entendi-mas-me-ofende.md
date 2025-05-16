@@ -1,4 +1,4 @@
----
++++
 title = "Eu entendi, mas me ofende"
 date = 2025-05-16T16:25:07-03:00
 tags = ["vida", "tech"]
@@ -6,7 +6,7 @@ tags = ["vida", "tech"]
 host = "bolha.us"
 username = "dunossauro"
 id = 114519160838217520
----
++++
 
 Eu sei que as pessoas não entendem o meu trabalho, sei também que elas não entendem a minha motivação por trás dessas coisas. Mas... constantemente elas me ofendem tentando me elogiar.
 
