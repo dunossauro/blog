@@ -1,11 +1,11 @@
 +++
 tags = ['vida']
-created = '2025-07-08'
+created = 2025-07-08T15:18:49-03:00
 title = 'Lembranças preciosas'
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114304592904815316
+id = 114818991424812611
 +++
 
 Há alguns dias, estava conversando com as pessoas em uma live na Twitch do tempo que fui voluntário em um projeto que ensinava informática básica para a terceira idade e o quanto isso me marcou de diversas formas, o que pode ser assunto para outro blog post. Mas, quando saí da live, isso me despertou uma lembrança da minha avó paterna.
