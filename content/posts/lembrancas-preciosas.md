@@ -1,6 +1,6 @@
 +++
 tags = ['vida']
-created = 2025-07-08T15:18:49-03:00
+date = 2025-07-08T15:18:49-03:00
 title = 'Lembranças preciosas'
 [comments]
 host = "bolha.us"
