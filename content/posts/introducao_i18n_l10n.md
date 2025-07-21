@@ -5,7 +5,7 @@ tags = ["tech", "i18n", "l10n", "python"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114326692955710228
+id = 114891514813104195
 +++
 
 	Esse texto, por agora, é um esboço (draft) do material da Live de Python 290 que não ficou pronto a tempo. Ele será atualizado após a live.
