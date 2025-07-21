@@ -1,7 +1,7 @@
 +++
 title = "Eu entendi, mas me ofende"
 date = 2025-05-16T16:25:07-03:00
-tags = ["vida", "tech"]
+tags = ["vida"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
