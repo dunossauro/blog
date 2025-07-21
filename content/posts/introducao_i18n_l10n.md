@@ -624,7 +624,7 @@ Ao usar o `locale` para formatação de números, garantimos que a apresentaçã
 
 Ordenar textos corretamente em diferentes idiomas é mais complexo do que parece. Cada idioma tem regras próprias para comparar letras, principalmente com acentos e caracteres especiais. Para isso, usamos `locale.strxfrm()` que transforma as strings para a ordenação ser adequada ao idioma. Por exemplo:
 
-```
+```python
 import locale
 
 locale.setlocale(locale.LC_COLLATE, 'pt_BR.UTF-8')
