@@ -1,7 +1,6 @@
 +++
 title = "O que andei lendo..."
 date = 2025-08-27T12:09:36-03:00
-draft = true
 tags = ["livros", "leitura"]
 [comments]
 host = "bolha.us"
