@@ -2,6 +2,7 @@
 title = "Uma introdução à Internacionalização e Localização de software"
 date = 2025-07-21T10:26:11-03:00
 tags = ["tech", "i18n", "l10n", "python"]
+draft = true
 [comments]
 host = "bolha.us"
 username = "dunossauro"
