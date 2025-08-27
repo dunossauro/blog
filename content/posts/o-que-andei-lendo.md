@@ -5,7 +5,7 @@ tags = ["livros", "leitura"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114891514813104195
+id = 115101584307128746
 +++
 
 Recentemente adentrei em mais um pedacinho do fediverso, o [bookwyrm](https://joinbookwyrm.com/pt-br/), uma rede social de leitura e reviews de livros. Confesso que, embora seja um leito regular, eu nunca tive interesse nessas redes. Mas, sempre me perguntam o que ando lendo por aí e eu raramente consigo lembrar de pronto o que andei lendo nos últimos meses.
