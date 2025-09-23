@@ -5,7 +5,7 @@ tags = ["vida", "tech", "python"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114519160838217520
+id = 115251408106090471
 +++
 
 Faz uns poucos meses que o [curso de FastAPI](https://fastapidozero.dunossauro.com/estavel/) acabou. Meu objetivo com esse texto é repensar um pouco sobre tudo que aconteceu. Os pontos positivos, negativos, os aprendizados e claro... sobre a dor que foi passar por um período de 3 anos de cobranças internas excessivas.
