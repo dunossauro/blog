@@ -6,6 +6,24 @@ rssLimit = 30
 baseURL = 'https://blog.dunossauro.com'
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[[menu.main]]
+identifier = "home"
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+identifier = "blogroll"
+name = "blogroll"
+url = "/blogroll/"
+weight = 3
+
 [params]
 colorTheme = "auto"
 colorThemeSwitcher = true
@@ -13,6 +31,9 @@ colorThemeSwitcher = true
 [params.author]
 name = "dunossauro"
 email = "dunossauro@protonmail.com"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [markup.highlight]
 style = 'catppuccin-mocha'
