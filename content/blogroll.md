@@ -17,6 +17,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que com
 - [claromes.com](https://claromes.com/) 🇧🇷
 - [gmgall.net](https://gmgall.net/) 🇧🇷
 - [Helio Loureiro](https://helio.loureiro.eng.br/) 🇧🇷
+- [Ivan Santiago](https://ivansantiago.net/) 🇧🇷
 - [Jonatas Oliveira](https://blog.jonatasoliveira.dev/) 🇧🇷
 - [Masdivago](https://masdivago.cc/) 🇧🇷
 - [Meme de Carbono](https://www.memedecarbono.com.br) 🇧🇷
