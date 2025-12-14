@@ -88,7 +88,7 @@ Pelo meu conhecimento limitado no analytics do youtube, parece que o maior impac
 
 Com isso, quero fazer uma coisa que me pedem há anos, fazer mais cedo. As lives ficaram às 22:00 porque eu chegava das aulas do mestrado às 20:00 e precisava comer algo correndo. Isso não acontece mais há anos, mas o horário continuou. Então, meu primeiro teste vai ser fazer às 21:00. Sei que ainda pode parecer tarde. Mas algo me diz que acabar às 23 é melhor que às 00.
 
-Como um segundo teste, depois do primeiro, quero diminuir um pouco o tempo das lives. Normalmente elas duram duas horas, quero tentar fazer uma hora e meia. Tentar correr um pouco mais na abertura (os slides padrões de todas as lives) e aproveitar melhor o tempo. O que fariam as lives acabar às 21:30. Bom... quem precisa dormir cedo, consegue acompanhar melhor do que acabar às 00.
+Como um segundo teste, depois do primeiro, quero diminuir um pouco o tempo das lives. Normalmente elas duram duas horas, quero tentar fazer uma hora e meia. Tentar correr um pouco mais na abertura (os slides padrões de todas as lives) e aproveitar melhor o tempo. O que fariam as lives acabarem às 22:30. Bom... quem precisa dormir cedo, consegue acompanhar melhor do que acabar às 00.
 
 E no terceiro teste, quero elencar melhor os temas. Acho que vou montar um formulário para ter uma base do que as pessoas inscritas no canal gostariam de me ver falando (já sei que vão pedir toneladas de IA, mas não vou ceder xD). E com essas sugestões, montar planejamentos que tenham somente uma live mensal escolhida por mim, até porque não sou de ferro.
 
