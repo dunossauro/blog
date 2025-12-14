@@ -5,7 +5,7 @@ tags = ["vida"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114326692955710228
+id = 115718733531140246
 +++
 
 Dei uma sumida, eu sei... Esse mês foi foda. Em diversos aspectos. Escrever esse texto é uma forma de tentar organizar os meus pensamentos da forma mais aberta possível...
