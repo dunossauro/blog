@@ -1,7 +1,6 @@
 +++
 title = "Forward de E-mail"
 date = 2026-01-11T13:27:40-03:00
-draft = true
 [comments]
 host = "bolha.us"
 username = "dunossauro"
