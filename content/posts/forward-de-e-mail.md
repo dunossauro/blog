@@ -4,7 +4,7 @@ date = 2026-01-11T13:27:40-03:00
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114304592904815316
+id = 115877575748149424
 +++
 
 No meu pequeno [degoogle](https://en.wikipedia.org/wiki/DeGoogle) de cada dia, tenho feito alguns testes em diferentes empresas de e-mail. Testei coisas como o [tuta](https://tuta.com/), o [proton](https://proton.me/), o [zoho](www.zoho.com), o [fast](https://www.fastmail.com/).[^1]
