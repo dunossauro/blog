@@ -30,7 +30,7 @@ colorThemeSwitcher = true
 
 [params.author]
 name = "dunossauro"
-email = "dunossauro@protonmail.com"
+email = "mail@dunossauro.com"
 
 [markup.goldmark.renderer]
 unsafe = true
