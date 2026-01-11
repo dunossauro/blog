@@ -14,7 +14,7 @@ O grande problema disso é que testar significa que vou usar essa conta de e-mai
 
 Tudo bem... alguém vai dizer que eu poderia enviar meus e-mails automaticamente de uma conta pra outra. E de fato eu poderia. Mas, no final das contas, tudo fica inviável. Principalmente se eu cometer o erro de cadastrar meu e-mail em algum serviço e tiver que lembrar em qual porcaria de e-mail criei a conta lá.
 
-Bom... eu já tenho um domínio, esse que fala, o [dunossauro.com](https://dunossauro.com). Por que não me aproveitar disso? E, de fato, eu posso. Assim, sempre que alguém precisar falar comigo, eu poderia enviar meu e-mail pessoal, usando meu domínio. Uma coisa que provavelmente não vai mudar[^2].
+Bom... eu já tenho um domínio, esse que vos fala, o [dunossauro.com](https://dunossauro.com). Por que não me aproveitar disso? E, de fato, eu posso. Assim, sempre que alguém precisar falar comigo, eu poderia enviar meu e-mail pessoal, usando meu domínio. Uma coisa que provavelmente não vai mudar[^2].
 
 Comecei a procurar algumas alternativas para fazer o redirecionamento do meu domínio para qualquer e-mail X que eu esteja usando. Nisso acabei encontrando o [forwardemail](https://forwardemail.net). Uma solução gratuita para encaminhamento, de [código aberto](https://github.com/forwardemail/forwardemail.net). E que, se quiser, pagar também pode[^3]!
 
@@ -38,7 +38,7 @@ Uma das coisas legais nisso é que posso ter uma quantidade infinita *alias* de 
 
 Mas é isso... problema resolvido. Se você também tiver um domínio, pode ser bastante interessante. Por alguns motivos:
 
-1. Ninguém precisa saber onde você hospeda sem e-mail
+1. Ninguém precisa saber onde você hospeda seu e-mail
 2. Você pode mudar de provedor quando quiser
 3. Pode criar alias malucos para qualquer e-mail maluco que tiver na cabeça
 4. É muito mais legal passar o e-mail do seu domínio do que fazer propaganda pra uma empresa qualquer :)
