@@ -13,6 +13,8 @@ id = 115924189964688190
 
 O objetivo desse post (que também é um roteiro de uma live de Python) é contar um pouco sobre o setup que tenho usado atualmente. Tanto para trabalhar quanto para codar no meu tempo livre. A única intenção é mostrar ferramentas que talvez ainda não façam parte do seu dia a dia.
 
+> Nesse momento ele é um material de apoio em tópcios pra live. Em alguns dias eu venho ajustando a fluidez do texto e ele vira um post de verdade :)
+
 Quero dividir o conteúdo em frentes distintas, para ficar mais fácil de encontrar e enumerar.
 
 Ah... só mais uma coisa... Quando falo em setup, estou falando da parte lógica: sistema, ferramentas, automações e fluxo de trabalho, não de hardware.
