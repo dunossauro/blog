@@ -5,7 +5,7 @@ tags = ['tech', 'python', 'gnu/linux']
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 115101584307128746
+id = 115924189964688190
 +++
 
 {{< figure src="/images/setup_2026_thumb.png" title="Thumbnail usada para a live no youtube!">}}
