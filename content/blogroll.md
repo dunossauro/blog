@@ -2,14 +2,14 @@
 toc: false
 ---
 
-# Blogroll
+## Blogroll
 
 Boas-vindas ao meu blogroll.
 
 Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que recomendo e quem sabe você possa se interessar por eles.
 
 
-## Blogs pessoais
+### Blogs pessoais
 
 - [Bruno Rocha](https://rochacbruno.com) 🇧🇷
 - [bugelseif](https://bugelseif.github.io/) 🇧🇷
@@ -39,7 +39,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que rec
 
 
 
-## Páginas não pessoais
+### Páginas não pessoais
 
 - [Manual do Usuário](https://manualdousuario.net) 🇧🇷
 - [LOW←TECH MAGAZINE English](https://solar.lowtechmagazine.com/posts/) 🇬🇧
