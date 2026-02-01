@@ -6,7 +6,7 @@ toc: false
 
 Boas-vindas ao meu blogroll.
 
-Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que comendo e quem sabe você possa se interessar por eles.
+Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que recomendo e quem sabe você possa se interessar por eles.
 
 
 ## Blogs pessoais
@@ -15,16 +15,17 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que com
 - [bugelseif](https://bugelseif.github.io/) 🇧🇷
 - [Caio Carrara](https://carrara.dev.br/) 🇧🇷
 - [claromes.com](https://claromes.com/) 🇧🇷
+- [Cassio Botaro](https://cassiobotaro.dev/posts/) 🇧🇷
 - [gmgall.net](https://gmgall.net/) 🇧🇷
 - [Helio Loureiro](https://helio.loureiro.eng.br/) 🇧🇷
-- [Ivan Santiago](https://ivansantiago.net/) 🇧🇷
+- [Ivan Santiago](https://ivansantiago.net/blog/) 🇧🇷
 - [Jonatas Oliveira](https://blog.jonatasoliveira.dev/) 🇧🇷
 - [Masdivago](https://masdivago.cc/) 🇧🇷
 - [Meme de Carbono](https://www.memedecarbono.com.br) 🇧🇷
 - [osantana](https://osantana.me) 🇧🇷
 - [Renne Rocha](https://rennerocha.com/) 🇧🇷
 - [ratamero.com](https://www.ratamero.com) 🇧🇷
-- [Téo Me Why](https://teomewhy.org) 🇧🇷
+- [Téo Me Why](https://teomewhy.org/blog/) 🇧🇷
 
 ---
 
@@ -40,7 +41,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que com
 
 - [Manual do Usuário](https://manualdousuario.net) 🇧🇷
 - [LOW←TECH MAGAZINE English](https://solar.lowtechmagazine.com/posts/) 🇬🇧
-- [Codeberg Blog](https://blog.codeberg.org/) 🇬🇧
+- [HTMX essays](https://htmx.org/essays/) 🇬🇧
 - [F-Droid](https://f-droid.org/en/) 🇬🇧
 - [Bandcamp Daily](https://daily.bandcamp.com/feed) 🇬🇧
 
