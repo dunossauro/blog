@@ -16,6 +16,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que rec
 - [Caio Carrara](https://carrara.dev.br/) 🇧🇷
 - [claromes.com](https://claromes.com/) 🇧🇷
 - [Cassio Botaro](https://cassiobotaro.dev/posts/) 🇧🇷
+- [Eduardo Klosowski](https://eduardoklosowski.github.io/blog/) 🇧🇷
 - [gmgall.net](https://gmgall.net/) 🇧🇷
 - [Helio Loureiro](https://helio.loureiro.eng.br/) 🇧🇷
 - [Ivan Santiago](https://ivansantiago.net/blog/) 🇧🇷
