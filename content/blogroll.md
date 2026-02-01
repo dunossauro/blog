@@ -32,6 +32,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que rec
 - [Andrew Kelley](https://andrewkelley.me/) 🇬🇧
 - [Deciphering Glyph](https://blog.glyph.im/) 🇬🇧
 - [Hugo van Kemenade](https://hugovk.dev/) 🇬🇧
+- [Stuff With Stuff](https://journal.stuffwithstuff.com/archive/) 🇬🇧
 - [Ploum.net](https://ploum.net/) 🇬🇧
 - [VKC.sh | Veronica Explains](https://vkc.sh) 🇬🇧
 
@@ -42,7 +43,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que rec
 - [Manual do Usuário](https://manualdousuario.net) 🇧🇷
 - [LOW←TECH MAGAZINE English](https://solar.lowtechmagazine.com/posts/) 🇬🇧
 - [HTMX essays](https://htmx.org/essays/) 🇬🇧
-- [F-Droid](https://f-droid.org/en/) 🇬🇧
+- [F-Droid](https://f-droid.org/en/news/) 🇬🇧
 - [Bandcamp Daily](https://daily.bandcamp.com/feed) 🇬🇧
 
 
