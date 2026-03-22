@@ -7,16 +7,22 @@ baseURL = 'https://blog.dunossauro.com'
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [[menu.main]]
+name = "início"
 identifier = "home"
-name = "home"
 url = "/"
 weight = 1
+
+[[menu.main]]
+name = "arquivo"
+identifier = "archive"
+url = "/posts/"
+weight = 2
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 2
+weight = 4
 
 [[menu.main]]
 identifier = "blogroll"
