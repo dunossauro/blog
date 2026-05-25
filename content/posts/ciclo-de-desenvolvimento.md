@@ -5,7 +5,7 @@ date = 2026-05-24T21:39:21-03:00
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114326692955710228
+id = 116632471173639974
 +++
 
 ## Preâmbulo
