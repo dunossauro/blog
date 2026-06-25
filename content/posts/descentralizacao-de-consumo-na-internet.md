@@ -12,9 +12,9 @@ id = 114304592904815316
 
 > Eu tentei ser o menos sarcástico que consegui nessa postagem. Mas, o estado atual da internet me emputesse e eu perco o controle...
 
-Me sinto cada vez mais fatigado da internet, sei que não sou só eu que me sinto assim, então acredito que precisamos conversar…
+Me sinto cada vez mais fatigado da internet, sei que não sou só eu que me sinto assim, então acredito que precisamos conversar...
 
-Grande parte do nosso consumo na rede vem por meio de algorítimos… Você pode até pensar que esse é um papo da "nossa década", mas, na verdade, esse problema é um pouco maior e mais complicado do que isso. O consumo algoritmo está na raiz de tudo que consumimos!
+Grande parte do nosso consumo na rede vem por meio de algorítimos... Você pode até pensar que esse é um papo da "nossa década", mas, na verdade, esse problema é um pouco maior e mais complicado do que isso. O consumo algoritmo está na raiz de tudo que consumimos!
 
 Já se perguntou como você procura por qualquer coisa na internet? Hoje, em 2025, temos três opções:
 
@@ -22,15 +22,15 @@ Já se perguntou como você procura por qualquer coisa na internet? Hoje, em 202
 2. Em um [cercadinho](https://indieweb.org/silo), como um bom "jovem" você sabe que vai encontrar alguém falando sobre o que você quer saber em qualquer rede social. Claro, ela também fez tracking de tudo que você já consumiu antes e vai te dar uma boa resposta enviesada.
 3. Em [papagaio estocástico](https://en.m.wikipedia.org/wiki/Stochastic_parrot), um modelo de linguagem que te entrega os resultados baseados não no seu tracking, mas no viés de todas as pessoas que o treinaram.
 
-Claro, existe uma quarta forma, mas acho que nenhum *boomer* que recebe informações pelo zap está lendo esse texto agora…
+Claro, existe uma quarta forma, mas acho que nenhum *boomer* que recebe informações pelo zap está lendo esse texto agora...
 
 Perceba que existe um padrão aqui. Não consumimos a internet descentralizada que nos venderam como a grande "revolução".
 
 Ficou tenso, né? Calma, relaxe assistindo essa série **"Achamos que você vai amar isso"** e quando der play **"antes de assistir, assista esse trailer"**... Ah, você desistiu? Por quê?
 
-Já sei, você cansou, vai ouvir sua playlist **Feito para [nome de usuário].** Quem sabe sua **supermix**. Não é possível…
+Já sei, você cansou, vai ouvir sua playlist **Feito para [nome de usuário].** Quem sabe sua **supermix**. Não é possível...
 
-É melhor ir comer. Toma aqui esse cupom de entrega grátis para os "Famosos no ifood"…
+É melhor ir comer. Toma aqui esse cupom de entrega grátis para os "Famosos no ifood"...
 
 ---
 
@@ -40,7 +40,7 @@ Oi, meu nome é Betina, tenho 22 anos 1.042.000, de patrimônio acumulado (5 seg
 
 ---
 
-Deu pra sacar o problema? Vou te ajudar a resolver isso… Link do meu linktree (com tracking + UTM) na bio, cupom de 15% de desconto do meu curso "desfodendo a web" na alura… Corra, por tempo limitado…
+Deu pra sacar o problema? Vou te ajudar a resolver isso... Link do meu linktree (com tracking + UTM) na bio, cupom de 15% de desconto do meu curso "desfodendo a web" na alura... Corra, por tempo limitado...
 
 > Achou que a propaganda era só da plataforma? E o anunciante que me contratou?
 
@@ -96,77 +96,99 @@ O que deve retornar um XML como esse:
 Sim, esse é o tão amado feed! Tem o título, a data, a categoria, o link, quem escreveu, etc...
 
 
-> "Ah… Eduardo… Que papo troncho, quer só pagar de diferentão…"
+> "Ah... Eduardo... Que papo troncho, quer só pagar de diferentão..."
 
-OK, OK… Jornal? Você lê notícias, não? Todos os jornais que eu conheço tem feeds... Vamos pegar a folha de são Paulo como exemplo
+OK, OK... Jornal? Você lê notícias, não? Todos os jornais que eu conheço tem feeds... Vamos pegar a folha de são Paulo como exemplo
 
 https://www1.folha.uol.com.br/feed/
 
 Você pode seguir qualquer editorial que te agrade!
 
-> "Ah… Seu conformista, lendo mídia burguesa…"
+> "Ah... Seu conformista, lendo mídia burguesa..."
 
 OK, o feed da Boi tempo te agrada então?
 
 https://blogdaboitempo.com.br/feed
 
-> "Ah… Eu não interesso por música, notícias me deprimem e eu não sou um comunista safado…"
+> "Ah... Eu não interesso por música, notícias me deprimem e eu não sou um comunista safado..."
 
 OK, isentão, você é dev né? Sempre é... Você pode seguir releases dos software/bibliotecas/frameworks. Aqui o exemplo das releases do ruff, pq se você é isentão não se importa com dinheiro de VC fazendo open source:
 
 https://github.com/astral-sh/ruff/releases.atom
 
-Troque o `user/repo` e você terá literalmente o feed de qualquer repositório no github…
+Troque o `user/repo` e você terá literalmente o feed de qualquer repositório no github...
+
+Por outro lado, no [codeberg](https://codeberg.org/), você poderia acompanhar repositórios ao nível de commits:
+
+https://codeberg.org/dunossauro/blog.rss
+
+Para saber tudo que está acontecendo troque `dunossauro` por qualquer user e `blog` por qualquer projeto, você conseguiria acompanhar.
+
+Até mesmo ao nível de arquivos em branches isso é possível:
+
+https://codeberg.org/dunossauro/dotfiles/rss/branch/main/feed.opml
+
+É realmente mágico.
 
 ---
 
-> "Tá, eu entendi… Mas sou apenas um camponês nesse vasto mundo da internet, consumo coisas normais… Sabe… Tipo YouTube? Um podcast às vezes…"
+> "Tá, eu entendi... Mas sou apenas um camponês nesse vasto mundo da internet, consumo coisas normais... Sabe... Tipo YouTube? Um podcast às vezes..."
 
-Vou te contar um segredo, mas não espalha… sabia que feeds podem ser usados pra isso também, né?
+Vou te contar um segredo, mas não espalha... sabia que feeds podem ser usados pra isso também, né?
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAaKeg-BocRqphErdtIUFFw
 
-Esse é o feed (`UCAaKeg-BocRqphErdtIUFFw`) do meu canal no YouTube, troque o id e acompanhe o canal que você gosta…
+Esse é o feed (`UCAaKeg-BocRqphErdtIUFFw`) do meu canal no YouTube, troque o id e acompanhe o canal que você gosta...
 
-Pra podcasts também funciona…
+Pra podcasts também funciona...
 
 https://feeds.simplecast.com/hwQVm5gy
 
-Esse é o feed do naruhodo, meu podcast preferido… O seu podcast com certeza tem um feed também…
+Esse é o feed do naruhodo, meu podcast preferido... O seu podcast com certeza tem um feed também...
 
-Se você estiver procurando por feeds de coisas diferentes, o [OpenRSS](https://openrss.org/feeds) tem algumas opções bem diferentes, até mesmo de lives na twitch. Mas, chega de exemplos, CHEGA… Você já entendeu…
+Pra redes sociais "do bem", aquelas que gostaríamos que nossos amigos estivessem, os feeds também estão lá:
+
+No mastodon: https://bolha.us/@dunossauro.rss
+No pixelfed: https://bolha.photos/users/dunossauro.atom
+No Lemmy: https://lemmy.eco.br/feeds/all.xml?sort=Active
+No bookwyrm: https://bookwyrm.social/user/dunossauro/rss
+
+...
+
+Além disso, se você estiver procurando por feeds de coisas diferentes, o [OpenRSS](https://openrss.org/feeds) tem algumas opções bem diferentes, até mesmo de lives na twitch. Mas, chega de exemplos, CHEGA... Você já entendeu...
+
 
 ## Centralizando a descentralização
 
 Se você não me mandou tomar no cu ainda, sinta-se à vontade. Pode falar "eu tenho cara de quem lê XML com a mente? Ainda mais ficar dando F5 nessa porra o dia todo?"
 
-Calma, floco de neve… Agora você precisa de um leitor de feeds. Um software que vai fazer esse serviço repetitivo de merda de dar F5 a cada delta de tempo e mostrar as novidades. Além de, claro, organizar a bagunça e tornar esse XML legível pra você…
+Calma, floco de neve... Agora você precisa de um leitor de feeds. Um software que vai fazer esse serviço repetitivo de merda de dar F5 a cada delta de tempo e mostrar as novidades. Além de, claro, organizar a bagunça e tornar esse XML legível pra você...
 
-Existem VÁRIOS softwares pra fazer isso. No Android, eu uso o [capy reader](https://capyreader.com/). Software livre e ainda tem uma capivara no logo. Sem mais explicações da escolha…
+Existem VÁRIOS softwares pra fazer isso. No Android, eu uso o [capy reader](https://capyreader.com/). Software livre e ainda tem uma capivara no logo. Sem mais explicações da escolha...
 
 Depois de cadastrar seus feeds, você pode ter uma visão parecida com essa. Somente o que você quer ver e em ordem cronológica:
 
 {{< figure src="/images/capy-feed.jpg" title="Meu feed no celular" width="400">}}
 
-É bom ter um leitor de feeds no celular. Aquele momento de paz, que você pararia por 1 minuto, entraria no xwitter pra ler uma merda que vai te deixar igual ao meme da facada mal dada e dar engajamento pra quem só quer [farmar seu rage](https://en.m.wikipedia.org/wiki/Rage-baiting). Você poderia ler alguma coisa que te interesse e não dar audiência pra babaca… Sua terapia agradece…
+É bom ter um leitor de feeds no celular. Aquele momento de paz, que você pararia por 1 minuto, entraria no xwitter pra ler uma merda que vai te deixar igual ao meme da facada mal dada e dar engajamento pra quem só quer [farmar seu rage](https://en.m.wikipedia.org/wiki/Rage-baiting). Você poderia ler alguma coisa que te interesse e não dar audiência pra babaca... Sua terapia agradece...
 
 {{< figure src="/images/facada.png" title="Facada mal dada da porra" width="400">}}
 
-No PC eu costumo usar o [gfeeds](https://gfeeds.gabmus.org/) com o mesmo feed que eu tenho no celular, afinal… O que não me falta é 1 minuto pra me revoltar nas redes sociais…
+No PC eu costumo usar o [gfeeds](https://gfeeds.gabmus.org/) com o mesmo feed que eu tenho no celular, afinal... O que não me falta é 1 minuto pra me revoltar nas redes sociais...
 
 O que deve ter uma cara bem parecida com a leitura no celular, mas maior :)
 
 {{< figure src="/images/gfeeds.png" title="Meu feed no pc">}}
 
-> "Ah… Mas eu uso iPhone… Eu uso windows."
+> "Ah... Mas eu uso iPhone... Eu uso windows..."
 
-Cada um tem seus defeitos… Não é mesmo… Tenho certeza de que alguém vai te saber recomendar um bom leitor nos comentários desse post.
+Cada um tem seus defeitos... Não é mesmo... Tenho certeza de que alguém vai te saber recomendar um bom leitor nos comentários desse post.
 
 ## OPML
 
 > "Eu vou ter que entrar em link por link no celular e depois de perder 1 semana da minha vida, eu vou ter que fazer isso no PC também? Tá me tirando?"
 
-É aí que entra o [OPML](https://pt.m.wikipedia.org/wiki/OPML). Um arquivo que condensa todos os seus feeds em um único `XML`, você pode ajustar as categorias dos feeds, compartilhar com amizades, exportar para backup, importa em outro gerenciador pra testar em outro programa. Assim, você pode testar o que te deixar mais feliz…
+É aí que entra o [OPML](https://pt.m.wikipedia.org/wiki/OPML). Um arquivo que condensa todos os seus feeds em um único `XML`, você pode ajustar as categorias dos feeds, compartilhar com amizades, exportar para backup, importa em outro gerenciador pra testar em outro programa. Assim, você pode testar o que te deixar mais feliz...
 
 As entradas são bastante simples e o arquivo é lido fácilmente:
 
