@@ -148,10 +148,10 @@ Esse é o feed do naruhodo, meu podcast preferido... O seu podcast com certeza t
 
 Pra redes sociais "do bem", aquelas que gostaríamos que nossos amigos estivessem, os feeds também estão lá:
 
-No mastodon: https://bolha.us/@dunossauro.rss
-No pixelfed: https://bolha.photos/users/dunossauro.atom
-No Lemmy: https://lemmy.eco.br/feeds/all.xml?sort=Active
-No bookwyrm: https://bookwyrm.social/user/dunossauro/rss
+- No mastodon: https://bolha.us/@dunossauro.rss
+- No pixelfed: https://bolha.photos/users/dunossauro.atom
+- No Lemmy: https://lemmy.eco.br/feeds/all.xml?sort=Active
+- No bookwyrm: https://bookwyrm.social/user/dunossauro/rss
 
 ...
 
