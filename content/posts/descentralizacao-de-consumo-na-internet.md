@@ -235,4 +235,6 @@ Entenda... Nem tudo na internet foi escrito pra você...
 
 ---
 
-Uma versão disso tudo que estou tentando dizer aqui, mas muito bem escrita e sem toneladas de sarcasmo, foi escrita pela [Luciana](https://organica.social/@luciana) no blog dela: [Sabote a economia da atenção construindo sua própria timeline via RSS](https://osolnacabeca.com.br/sabote-a-economia-da-atencao-com-rss/)
+Uma versão disso tudo que estou tentando dizer aqui, mas muito bem escrita e sem toneladas de sarcasmo, foi escrita pela [Luciana](https://organica.social/@luciana) no blog dela: [Sabote a economia da atenção construindo sua própria timeline via RSS](https://osolnacabeca.com.br/sabote-a-economia-da-atencao-com-rss/). Talvez você goste também...
+
+Se você também escrever sobre isso, me marca. Vou adorar adicionar aqui também!
