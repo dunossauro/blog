@@ -24,6 +24,7 @@ Aqui estão blogs, páginas, conteúdos, ... Coisas que leio, que gosto, que rec
 - [Masdivago](https://masdivago.cc/) 🇧🇷
 - [Meme de Carbono](https://www.memedecarbono.com.br) 🇧🇷
 - [osantana](https://osantana.me) 🇧🇷
+- [O sol na cabeça](https://osolnacabeca.com.br/) 🇧🇷
 - [Renne Rocha](https://rennerocha.com/) 🇧🇷
 - [ratamero.com](https://www.ratamero.com) 🇧🇷
 - [Téo Me Why](https://teomewhy.org/blog/) 🇧🇷
