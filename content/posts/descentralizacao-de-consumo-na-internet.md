@@ -174,7 +174,7 @@ Depois de cadastrar seus feeds, você pode ter uma visão parecida com essa. Som
 
 {{< figure src="/images/facada.png" title="Facada mal dada da porra" width="400">}}
 
-No PC eu costumo usar o [gfeeds](https://gfeeds.gabmus.org/) com o mesmo feed que eu tenho no celular, afinal... O que não me falta é 1 minuto pra me revoltar nas redes sociais...
+No PC costumo usar o [gfeeds](https://gfeeds.gabmus.org/), ou o [elfeed no GNU/Emacs](https://github.com/emacs-elfeed/elfeed) com o mesmo feed que tenho no celular, afinal... O que não me falta é 1 minuto pra me revoltar nas redes sociais...
 
 O que deve ter uma cara bem parecida com a leitura no celular, mas maior :)
 
@@ -226,8 +226,13 @@ flowchart TD
 
 Você pode compartilhar e salvar suas preferências usando OPML.
 
-Se você quiser um lugar estranho pra começar... Pode usar o meu OPML pessoal... [Aqui](https://codeberg.org/dunossauro/dotfiles/src/branch/main/feed.opml)
+Se você quiser um lugar estranho pra começar... Pode usar o meu OPML pessoal... [Aqui](https://codeberg.org/dunossauro/dotfiles/src/branch/main/feed.opml) ou pelo [blogroll](https://blog.dunossauro.com/blogroll/) desse blog que vos escreve.
 
 > "Ah... Mas eu gosto dos feeds algorítimos"
 
 Entenda... Nem tudo na internet foi escrito pra você...
+
+
+---
+
+Uma versão disso tudo que estou tentando dizer aqui, mas muito bem escrita e sem toneladas de sarcasmo, foi escrita pela [Luciana](https://organica.social/@luciana) no blog dela: [Sabote a economia da atenção construindo sua própria timeline via RSS](https://osolnacabeca.com.br/sabote-a-economia-da-atencao-com-rss/)
