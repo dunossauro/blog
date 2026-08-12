@@ -5,7 +5,7 @@ tags = ["vida"]
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114326692955710228
+id = 117080508678156502
 +++
 
 Nesses tempos de [hiatos da live de python](https://youtu.be/JV1hpqkvS7c) e sem preocupações latentes sobre conseguir [fechar o mês no verde](https://blog.dunossauro.com/posts/sagrado-e-profano/) andou me "sobrando" tempo pra fazer a coisa que mais gosto de fazer no mundo, ouvir música. Um ato meio sagrado por aqui.
