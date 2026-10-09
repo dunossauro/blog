@@ -5,7 +5,7 @@ date = 2026-10-08T22:10:46-03:00
 [comments]
 host = "bolha.us"
 username = "dunossauro"
-id = 114519160838217520
+id = 117408296808367767
 +++
 
 > Esse texto é um desabafo bastante pessoal, fala sobre assuntos muito sensíveis como violência sexual, saúde mental e suicídio. Sei que ele pode ser um gatilho para quem estiver lendo. Talvez nesse momento você não queira continuar e está tudo bem.
