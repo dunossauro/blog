@@ -9,7 +9,7 @@ id = 117492668785291658
 +++
 
 
-> Ps: esse post não é uma introdução ao podman, menos ainda ao systemd
+> Ps: esse post não é uma introdução ao podman, menos ainda ao systemd. Simplificações serão feitas, afinal, queremos conversar sobre updates!
 
 Uma das coisas mais interessantes no [podman](https://podman.io/) é a capacidade de executar containers nativamente no [systemd](https://www.freedesktop.org/software/systemd/man/latest/systemd.html) e, de quebra, os serviços ainda podem ser atualizados automaticamente via serviços do próprio podman + systemd.
 
@@ -27,8 +27,6 @@ Um caso concreto que tenho aqui é meu laboratório de observabilidade com opent
 
 Acompanho o feed RSS[^1] desses serviços pra sempre saber quando sai uma release nova. E toda vez que uma nova release é lançada de cada um desses serviços, tenho que ir no [LXC](https://linuxcontainers.org/lxc/introduction/) que contém todas as minhas aplicações de observabilidade e atualizar o que saiu de novo.
 
-[^1]: Via página de releases no github mesmo "github.com/user/projeto/releases.atom"
-
 Isso não é necessariamente ruim, afinal leio os changelogs e sempre acabo vendo alguma novidade, possibilidades novas, etc. Mas, sendo totalmente sincero, a maioria esmagadora das vezes as releases têm somente fixes (X.X.AQUI) e, às vezes... mais de um por dia ;)
 
 A ideia desse post é tentar contar como resolvi esse problema de updates fazendo o podman atualizar sozinho. Se quebrar uma vez ou outra, tudo bem, posso intervir, mas não preciso fazer isso sempre, a toda nova release.
@@ -40,8 +38,6 @@ A ideia desse post é tentar contar como resolvi esse problema de updates fazend
 Vamos imaginar uma imagem genérica que alguém fez push em algum registry, vamos chamar ela de `blah` em sua última versão `:latest`.
 
 O [Quadlet](https://docs.podman.io/en/latest/markdown/podman-quadlet.1.html) é uma forma de manusear containers[^2] declarativamente usando systemd [unit files](https://www.freedesktop.org/software/systemd/man/systemd.unit.html).
-
-[^2]: volumes, redes, etc... tudo que o podman pode gerenciar
 
 Mas, no lugar de criar um `[Service]`, criamos um `[Container]`. Vamos imaginar um `blah.container`:
 
@@ -156,10 +152,6 @@ AutoUpdate=registry
 
 Neste exemplo, vamos usar `:latest`[^3] afinal, se queremos atualizações, não podemos travar a versão, e o `AutoUpdate` recebe `registry` pois é de lá que ele deve buscar as novas versões[^4].
 
-[^3]: Poderia ser qualquer tag mutável, como :latest ou :lts-alpine. Tags de versão, como :3.1.18, também podem mudar, embora normalmente sejam mantidas fixas. Para garantir a referência a uma imagem específica, use um digest.
-[^4]: Você também pode usar `AutoUpdate=local` se quiser, aí quando existir uma imagem local mais nova, ele atualiza.
-
-
 Com isso, damos um replace (`-r`) no nosso `.container`, fazendo ele pegar a configuração mais recente:
 
 ```bash
@@ -176,14 +168,24 @@ systemctl restart --user blah
 Com o serviço rodando, podemos seguir para os outros serviços.
 
 
-Aí entra o `podman-auto-update`, que é quem efetivamente executa o update. Ele precisa estar habilitado:
+Aí entra o `podman-auto-update`, que é quem efetivamente executa o update. Ele existe, mas não precisa estar habilitado.
 
 ```bash
-$ systemctl --user enable podman-auto-update.service
-Created symlink '/home/dunossauro/.config/systemd/user/default.target.wants/podman-auto-update.service' → '/usr/lib/systemd/user/podman-auto-update.service'.
+$ systemctl status podman-auto-update.service
+○ podman-auto-update.service - Podman auto-update service
+     Loaded: loaded (/usr/lib/systemd/system/podman-auto-update.service; disabled; preset: disabled)
+     Active: inactive (dead)
+       Docs: man:podman-auto-update(1)
 ```
 
-O serviço executa o processo de atualização quando é acionado. Quem agenda essas execuções é o timer, que dispara o serviço nos intervalos configurados.
+Pois ele é um serviço do tipo oneshot[^5]:
+
+```init
+[Service]
+Type=oneshot
+```
+
+O serviço executa o processo de atualização quando é acionado. E quem agenda essas execuções é o timer, que dispara o serviço nos intervalos configurados.
 
 Para saber quando ele vai executar, esse serviço tem um timer de systemd associado a ele, o `podman-auto-update.timer`. Que também precisa ser inicializado.
 
@@ -224,7 +226,7 @@ WantedBy=timers.target
 
 O que acontece nesses updates automáticos se alguma coisa falhar nessa nova `:latest`? Nunca se sabe, não é mesmo?
 
-Pra isso, temos um mecanismo de health check no unit, para ele validar se está mesmo funcionando:
+Para isso, temos um mecanismo de health check no `unit`, para ele validar se está mesmo funcionando:
 
 ```ini
 ...
@@ -246,7 +248,7 @@ Notify=healthy
 - `HealthRetries`: define quantas falhas consecutivas são toleradas antes de o container ser considerado não saudável.
 - `Notify=healthy`: adia a notificação de sucesso da inicialização do service ao systemd. Faz com que espere até que o container esteja saudável.
 
-Com isso, quando o container subir, se não der certo após o update, o podman vai iniciar o processo de rollback para o hash anterior da mesma imagem.
+Com isso, quando o container subir, se não der certo após o update, o podman vai iniciar o processo de rollback para o hash anterior da mesma imagem.[^6]
 
 Importante frisar aqui que sem adiar o `Notify`, a validação fica a cargo de entender se o container conseguiu ser inicializado. Ele poder ser inicializado sem estar saudável, por isso `Notify` é importante, pois, espera que ele esteja saudável antes de terminar o processo de atualização ou de rollback.
 
@@ -258,7 +260,7 @@ No mundo perfeito do Podman Quadlet, existe um arquivo `.network` (exatamente co
 
 Mas quer saber a verdade? Se a sua `blah` api precisar consultar um banco de dados que está na máquina host, ou se você quiser simplificar as pontes sem gerenciar DNS interno de container, você pode apelar para o **`host.containers.internal`**.
 
-Por exemplo, a string de conexão do banco na sua `blah` API apontaria direto para lá:
+Por exemplo, a string de conexão do banco na sua `blah` API apontaria direto para lá [^7]:
 
 ```env
 DATABASE_URL=postgres://user:pass@host.containers.internal:5432/db
@@ -275,3 +277,11 @@ Claro, de tempos em tempos é legal dar uma olhada no `journalctl` da coisa e ve
 Toda essa minha pequena configuração de quadlets de observabilidade, meu problema inicial, está nesse [repo](https://codeberg.org/dunossauro/obs-pods) e você pode dar uma olhada.
 
 Como você tem usado essas coisas? Me conta.
+
+[^1]: Via página de releases no github mesmo "github.com/user/projeto/releases.atom"
+[^2]: volumes, redes, etc... tudo que o podman pode gerenciar
+[^3]: Poderia ser qualquer tag mutável, como :latest ou :lts-alpine. Tags de versão, como :3.1.18, também podem mudar, embora normalmente sejam mantidas fixas. Para garantir a referência a uma imagem específica, use um digest.
+[^4]: Você também pode usar `AutoUpdate=local` se quiser, aí quando existir uma imagem local mais nova, ele atualiza.
+[^5]: https://www.redhat.com/en/blog/systemd-oneshot-service
+[^6]: Note que aqui a problematica é bastante extensa. Pode retornar 200, mas o banco de dados estar deteriorado. Pode não conseguir se comunicar com algo externo, ... Muitas coisas são importantes aqui, note que é um exemplo simplório. Validar a saúde pode depender de coisas bem mais sofisticadas.
+[^7]: De novo, uma grande simplificação aqui, pois você poderia adicionar isso aos segredos do podman [`podman secrets`](https://docs.podman.io/en/latest/markdown/podman-secret-create.1.html)
